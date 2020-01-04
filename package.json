@@ -1,11 +1,8 @@
 {
   "name": "hello-world-by-mahesh",
-  "version": "1.0.0",
-  "description": "Hello World",
+  "version": "1.0.1",
+  "description": "It perform the mathematical operations such as addition, subtraction, multiplication and division.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/maheshwaghmare/npm-hello-world.git"
